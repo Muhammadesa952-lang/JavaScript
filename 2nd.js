@@ -1,0 +1,10 @@
+fullName = "Tony Stark";
+console.log(fullName);
+age = 24;
+console.log(age);
+price = 99.99;
+console.log(price);
+x = null;
+console.log(x);
+y = undefined;
+console.log(y);
